@@ -1,3 +1,5 @@
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=MrSmileGod23 alt=rahuldkjain/> </p>
+
 
 | Welcome to the my profile 👋  | Привествую на своем профиле 👋 |
 |:---------:|:---------:|
