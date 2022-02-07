@@ -1,5 +1,5 @@
 ### Hi there 👋
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSmileGod23&count_private=true&show_icons=true&theme=merko)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmileGod23&theme=merko)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSmileGod23&count_private=true&show_icons=true&theme=midnight-purple)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmileGod23&theme=midnight-purple)|
 |----|----|
 <!--
 **MrSmileGod23/mrsmilegod23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
