@@ -1,6 +1,3 @@
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=MrSmileGod23 alt=rahuldkjain/> </p>
-
-
 | Welcome to the my profile 👋  | Привествую на своем профиле 👋 |
 |:---------:|:---------:|
 |<b>Info</b>|<b>Languages</b>|
@@ -9,9 +6,8 @@
 |<a href="https://t.me/MrSmileGod23" target="_blank">![telegram](https://img.shields.io/badge/telegram-101511?style=for-the-badge&logo=telegram&logoColor=white)</a> &nbsp;&nbsp;&nbsp;<a href="https://vk.com/mrsmilegod23" target="_blank">![vk](https://img.shields.io/badge/Vk-101511?style=for-the-badge&logo=vk&logoColor=white)</a>|<a href="https://www.instagram.com/mrsmilegod23/" target="_blank">![instagramm](https://img.shields.io/badge/insta-101511?style=for-the-badge&logo=instagram&logoColor=white)</a> &nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/mrsmilegod23" target="_blank">![twitch](https://img.shields.io/badge/twitch-101511?style=for-the-badge&logo=twitch&logoColor=white)</a> &nbsp;&nbsp;&nbsp;|
 
 
-   
-
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=MrSmileGod23 alt=rahuldkjain/> </p>
 
 <!--
  ### My stack: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Мой стек:
