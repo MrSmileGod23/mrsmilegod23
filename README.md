@@ -4,7 +4,7 @@
 |----|----|
 
 
- ###  👇 Connect with me:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Для связи со мной: 👇
+ ###  👇 Connect with me:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Для связи со мной: 👇
  <a href="https://t.me/MrSmileGod23" target="_blank">![telegram](https://img.shields.io/badge/telegram-101511?style=for-the-badge&logo=telegram&logoColor=white)</a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/mrsmilegod23/" target="_blank">![instagramm](https://img.shields.io/badge/insta-101511?style=for-the-badge&logo=instagram&logoColor=white)</a>
