@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1702090&lines=Будущий+full+stack+веб-разработчик)](https://git.io/typing-svg)
+
 | Welcome to the my profile 👋  | Привествую на своем профиле 👋 |
 |:---------:|:---------:|
 |<b>Info</b>|<b>Languages</b>|
